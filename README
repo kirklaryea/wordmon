@@ -1,0 +1,15 @@
+In this game the monster is going to choose a random word from the list of words in the file words.txt.
+
+You must guess each letter in the random word the monster chose.
+
+If the letter chosen by you is in the word the monster chose,then the letters respective blankspace will be filled in the program.
+
+Else if the letter is not in the monsters' word, the monster keeps getting closer.
+
+You have a maximum of 6 guesses to get the correct word.
+
+If all letters of the word are guessed before the monster arrives,YOU WIN!
+
+Else if you max out your 6 attempts and still haven't guessed the word, you have lost.
+
+Copyright(c) 2023 Kirk Laryea.
