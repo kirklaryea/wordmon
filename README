@@ -1,10 +1,10 @@
-In this game the monster is going to choose a random word from the list of words in the file words.txt.
+In this game, the monster is going to choose a random word from the list of words in the file words.txt.
 
 You must guess each letter in the random word the monster chose.
 
-If the letter chosen by you is in the word the monster chose,then the letters respective blankspace will be filled in the program.
+If the letter chosen by you is in the word the monster chose,then the letters respective blankspace will be filled in the program and added to the list "Correct".
 
-Else if the letter is not in the monsters' word, the monster keeps getting closer.
+Else if the letter is not in the monsters' word, the letter gets added to the list "Wrong" and the monster keeps getting closer.
 
 You have a maximum of 6 guesses to get the correct word.
 
