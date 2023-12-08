@@ -12,4 +12,4 @@ If all letters of the word are guessed before the monster arrives,YOU WIN!
 
 Else if you max out your 6 attempts and still haven't guessed the word, you have lost.
 
-Copyright(c) 2023 Kirk Laryea.
+The program will then display the monsters word at the end
